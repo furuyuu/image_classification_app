@@ -1,1 +1,1 @@
-# sample_ai_app
+# Image Classfication app by streamlit
